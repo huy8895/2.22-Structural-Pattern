@@ -1,4 +1,4 @@
-package Structural.Package1.Bridge.Demo;
+package Structural.Package2.Bridge.Demo;
 
 public class VietcomBank extends Bank {
 
